@@ -1,0 +1,195 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+header{
+    background-color: black;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+/* waa todo list */
+
+.toguud{
+   
+    padding: 30px;
+    width: 600px;
+  
+}
+.toheader{
+    font-size: 25px;
+    font-weight: bold;
+}
+#toinput{
+    width: 60%;
+    height: 30px;
+    margin-top: 20px;
+    padding: 0 20px;
+}
+.tobutton{
+    width: 70px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+    border: none;
+}
+.toul li{
+    list-style: none;
+    font-size: large;
+    font-weight: bold;
+
+
+}
+.toul{
+    margin-top: 10px;
+}
+
+/* waa tusbax */
+
+.tusheader{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.tusguud{
+    padding: 30px;
+
+}
+.tusgaar{
+    background-color: black;
+    color: white;
+    width:200px;
+    height: 200px;
+    text-align: center;
+    border-radius: 7px;
+}
+.tusgudo{
+    text-align: center;
+    padding: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    
+
+
+}
+#tusinput{
+   
+  background-color: rgb(235, 234, 234);
+  color: rgb(0, 0, 0);
+  margin: 0 30px;
+  height: 70px;
+  line-height: 67px;
+  font-size: 40px;
+  font-weight: bold;
+  border-radius: 10px;
+
+    
+}
+.tusbutton{
+    background-color:red;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+}
+
+/* inceremnt iyo decrement */
+.inheader{
+    font-size: 25px;
+    font-weight: bold;
+}
+.ingaar{
+    background-color: black;
+    color: white;
+    width:250px;
+    height: 200px;
+    text-align: center;
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.inguud{
+    padding: 30px;
+
+}
+.inqoraal{
+    background-color: rgb(230, 230, 230);
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    margin-bottom: 60px;
+    color: black;
+    text-align: center;
+    line-height: 70px;
+    font-size: 50px;
+}
+.inbutton{
+    background-color: white;
+    border: none;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+/*  sawirada like iyo dislike */
+
+.sawimg{
+    width: 100px;
+    height: 120px;
+}
+.sawguud{
+    padding: 30px;
+}
+
+/* read more */
+.reguud{
+    padding: 15px;
+    border: 1px solid black;
+    width: 300px;
+    margin: 30px;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+}
+.reh1{
+    font-size: 25px;
+    font-weight: bold;
+   padding-left: 30px;
+
+}
+
+/* un read messeges */
+.unguud img{
+    width: 100px;
+}
+.unguud{
+    padding: 30px;
+}
+.unguud p{
+    font-size: 30px;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    left: 90px;
+    background-color: rgb(247, 3, 3);
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    text-align: center;
+    line-height: 40px;
+    margin-top: -15px;
+    
+}
+.unguud h1{
+    margin-bottom: 50px;
+    
+}
