@@ -1,5 +1,5 @@
 import { useState } from "react"
-import areys from "../areys"
+import areys from "../data"
 export default function Unread(){
     let [index, setindex] = useState([])
     let maabeeye = areys.map((e)=>{

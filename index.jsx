@@ -9,12 +9,13 @@ import Sawir from './components/sawir'
 // import Xarfo from './components/xarfo'
 import Readmore from './components/readmore'
 import Unread from './components/unread'
+import On from './components/onof'
 
 
 let root = createRoot(document.getElementById('root'))
 root.render(
  <>
-  {/* <Header />
+  <Header />
   <Todolist />
   <Sawir />
   <Tusbax />
@@ -26,10 +27,12 @@ root.render(
 
 
   <Readmore />
-  <Unread /> */}
+  <Unread />
 
 <Badid />
+<On/>
 </>
+
 
 
   

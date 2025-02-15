@@ -193,3 +193,23 @@ header{
     margin-bottom: 50px;
     
 }
+
+
+/* ON IYO OF */
+
+.ONguud{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 100px 150px;
+    gap: 20px;
+    background-color: black;
+}
+.ONguud button{
+    height: 150px;
+   
+    font-size: 50px;
+    font-weight: bold;
+}
+.ONguud button.of{
+    opacity: 0.1;
+}
